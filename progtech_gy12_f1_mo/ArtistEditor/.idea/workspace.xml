@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6830ba70-a783-49f7-83e6-c658a9c6cb0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files (x86)\JetBrains\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6BAwi4NYCzHt3wv5N48pumpeE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hu.elte.fi.progtech.ae.io" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Codes\ArtistEditor" />
+      <recent name="G:\Codes\ArtistEditor\src\hu\elte\fi\progtech\ae\persistence" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Boot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.elte.fi.progtech.ae.Boot" />
+      <module name="ArtistEditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.elte.fi.progtech.ae.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6830ba70-a783-49f7-83e6-c658a9c6cb0e" name="Default Changelist" comment="" />
+      <created>1606907524729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606907524729</updated>
+      <workItem from="1606907525838" duration="16921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1606921842291">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606921842291" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1606907650611">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606907650611" />
+    <state width="2500" height="390" key="GridCell.Tab.0.bottom" timestamp="1606924475168">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="390" key="GridCell.Tab.0.bottom/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606924475168" />
+    <state width="2500" height="390" key="GridCell.Tab.0.center" timestamp="1606924475167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="390" key="GridCell.Tab.0.center/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606924475167" />
+    <state width="2500" height="390" key="GridCell.Tab.0.left" timestamp="1606924475167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="390" key="GridCell.Tab.0.left/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606924475167" />
+    <state width="2500" height="390" key="GridCell.Tab.0.right" timestamp="1606924475167">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="390" key="GridCell.Tab.0.right/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606924475167" />
+    <state width="2500" height="478" key="GridCell.Tab.1.bottom" timestamp="1606923697413">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="478" key="GridCell.Tab.1.bottom/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606923697413" />
+    <state width="2500" height="478" key="GridCell.Tab.1.center" timestamp="1606923697413">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="478" key="GridCell.Tab.1.center/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606923697413" />
+    <state width="2500" height="478" key="GridCell.Tab.1.left" timestamp="1606923697413">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="478" key="GridCell.Tab.1.left/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606923697413" />
+    <state width="2500" height="478" key="GridCell.Tab.1.right" timestamp="1606923697413">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="478" key="GridCell.Tab.1.right/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606923697413" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1606924152765">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606924152765" />
+    <state x="1001" y="441" width="570" height="524" key="StructurePopup" timestamp="1606918262165">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1001" y="441" width="570" height="524" key="StructurePopup/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606918262165" />
+    <state x="987" y="433" width="585" height="534" key="find.popup" timestamp="1606912808605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="433" width="585" height="534" key="find.popup/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606912808605" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1606912654699">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.190.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606912654699" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hu/elte/fi/progtech/ae/gui/table/AbstractDataTableModel.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hu/elte/fi/progtech/ae/gui/table/AbstractDataTableModel.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

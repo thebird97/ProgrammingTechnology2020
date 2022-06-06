@@ -1,0 +1,3 @@
+file.notfound: Fájl nem található
+file.format: A fájl formátuma hibás
+file.invalid_lines: {0} hibás sor van.

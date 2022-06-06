@@ -1,0 +1,3 @@
+file.notfound: File not found
+file.format: Wrong file format
+file.invalid_lines: There are {0} faulty lines present.

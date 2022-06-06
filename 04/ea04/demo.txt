@@ -1,0 +1,40 @@
+A munkások munkába érkezésekor rögzítjük a belépõkártyájuk számát, a belépés idejét, a
+nevüket, valamint a távozás idõpontját, ha kimennek a gyárból.
+A log fájl nem teljes, mivel napközben kértük le, ezért lehet, hogy valaki még bent 
+tartózkodik, nála a távozás idõpontja ezért nincs megadva. Ha valaki napközben többször
+ki-be lép a kapun, akkor csak az utolsó regisztrálásnál hiányozhat a távozásának idõpontja.
+A fájl azonosítók szerint, azon belül pedig érkezés szerint rendezett.
+
+11111111 08:15 Pista bácsi 08:30
+11111111 08:40 Pista bácsi 09:00
+11111111 08:55 Pista bácsi 10:00
+22222222 10:10 Mari néni
+22222222 10:15 Mari néni
+33333333 12:00 Portás Péter
+33333333 14:00 Portás Péter 15:00
+
+----------------------------------------------------------
+
+Kérdések:
+---------
+
+1. Hányan tartózkodnak még bent?
+
+2. Kik trükköztek a beléptetõ kapunál, azaz nem távoztak látszólag, mégis újra beléptek?
+
+3. Volt-e rendszerhiba, vagyis rögzített-e a rendszer egy személynél úgy érkezési idõpontot,
+hogy egy korábbi kilépésének ideje késõbbi?
+
+4. Hány hibás sora van a fájlnak? 
+
+
+A feladatnál alkalmazzunk kivételkezelést. Kezeljük le, ha nem sikerült megnyitni a fájlt,
+vagy nem megfelelõ formátumú a tartalma.
+----------------------------------------------------------
+A feladatot bõvítsük ki.
+Készítsünk egy attribútum osztályt, amiben a kiírások szövegeit tároljuk és módosítsuk ennek 
+megfelelõen a megoldásunkat.
+
+Mutassuk meg a többnyelvûsítés lehetõségét.
+Készítsünk két fájlt (angol.txt, magyar.txt), ahol 1-1 sor tartalmazza a kiírni szánt adat
+megfelelõ nyelven adott szövegét (akár formázókat is tehetünk bele).

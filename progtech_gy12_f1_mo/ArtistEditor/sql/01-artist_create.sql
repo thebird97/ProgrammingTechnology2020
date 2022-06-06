@@ -1,0 +1,6 @@
+CREATE TABLE artist (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(300),
+  age	SMALLINT,
+  instruments VARCHAR(2000)
+);
